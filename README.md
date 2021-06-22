@@ -1,4 +1,5 @@
 # Text_classification
+![1_HgXA9v1EsqlrRDaC_iORhQ](https://user-images.githubusercontent.com/59575205/123011510-30782700-d3c9-11eb-9290-a002bd7c485c.png)
 
 ## Using a dataset of researches then build models to classify each research to its appropriate field 
 > The main function of this project is text classification, It aims to predict each research with its abstract and title is it belong to computer science field (The field we interest in) or belongs to other fields.
